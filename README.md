@@ -1,7 +1,7 @@
-<img src="https://i.pinimg.com/736x/f0/82/92/f08292c5ba44e7421463f9bbc4cb85af.jpg" alt="MasterHead" style="width:100%; height:500px; object-fit:cover;" />
+<img src="https://i.pinimg.com/736x/ee/a8/dd/eea8dd68323727dcc21358844fe8c234.jpg" alt="MasterHead" style="width:100%; height:500px; object-fit:cover;" />
 <h1 align="center">Hi 👋, I'm Ajay Krishna</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/16/e4/4a/16e44a1228db05d403459cc8010a4a5e.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=homosapien-117&label=Profile%20views&color=0e75b6&style=flat" alt="homosapien-117" /> </p>
 
