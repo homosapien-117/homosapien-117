@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/736x/f0/82/92/f08292c5ba44e7421463f9bbc4cb85af.jpg" alt="MasterHead" style="width:100%; max-height:300px; object-fit:cover;" />
+<img src="https://i.pinimg.com/736x/f0/82/92/f08292c5ba44e7421463f9bbc4cb85af.jpg" alt="MasterHead" style="width:100%; height:500px; object-fit:cover;" />
 <h1 align="center">Hi 👋, I'm Ajay Krishna</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif">
